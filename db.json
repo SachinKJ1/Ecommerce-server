@@ -1,0 +1,1878 @@
+{
+  "items": [
+    {
+      "id": "item-1",
+      "name": "Acer Aspire 5",
+      "description": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6\" FHD Display, 1.8 Kg)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/1.jpg",
+      "price": "59990",
+      "company": "Acer",
+      "discount": "28",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹3,811.33 EMI interest savings on select Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "7.5% Instant Discount up to INR 2000 on HSBC Credit Card EMI Trxn. Minimum purchase value INR 8000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Buy this laptop and get 5% off on top selling headphones. Offered by Appario Retail Private Ltd"
+        }
+      ],
+      "rating": {
+        "ratings": "444",
+        "overall": "4.0"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Acer"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Acer 5 Gaming"
+        },
+        {
+          "spec": "Screen Size",
+          "value": "15.6 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "Grey"
+        },
+        {
+          "spec": "Hard Disk size",
+          "value": "512 GB"
+        },
+        {
+          "spec": "CPU model",
+          "value": "core i5"
+        },
+        {
+          "spec": "RAM memmory",
+          "value": "16 GB"
+        },
+        {
+          "spec": "Operating System",
+          "value": "Windows 11 Home"
+        },
+        {
+          "spec": "Special Feature",
+          "value": "Aluminum Top Cover, Wi-Fi 6, Elevated Design, Thunderbolt 4"
+        },
+        {
+          "spec": "Graphics Card",
+          "value": "Dedicated"
+        }
+      ],
+      "about": [
+        "Acer Aspire 5 Gaming laptop is powered by the latest 12th Gen Intel Core i5 processor consisting of 12 cores for multitasking and productivity",
+        "RTX It's On : NVIDIA GeForce RTX 2050 - 4G-GDDR6 laptops deliver ray tracing and cutting-edge AI features. The RTX 2050 also works seamlessly with NVIDIA Optimus technology to give you the perfect balance between long battery life and optimum performance. Over 150 top games and applications use RTX to deliver realistic graphics or cutting-edge new AI features like NVIDIA DLSS and NVIDIA Broadcast. RTX is the new standard.",
+        "Enhanced Cooling : Experience engineered solutions to maximize cooling with dual fans supporting multiple cooling modes and dual copper thermal pipes. Expel up to 10% more heat with the air inlet keyboard to keep your cool when it counts.",
+        "Display Your Best : Get Full HD 15.6\" IPS dispay with this gaming laptop under 65000. Boasting an 81.18% screen-to-body ratio and Acer Color Intelligence, and Acer BlueLightShield for dynamic color optimization and viewing comfort.",
+        "With Acer TNR Solution, experience intelligent image noise reduction in low-light conditions. Acer PurifiedVoice with AI noise reduction can actively suppress background noise for both users and is compatible with external headphones and mics, perfect for online courses or keeping in touch with family.",
+        "The Aspire 5 also features a 720P HD webcam and a fingerprint reader for convenient security.;Featuring the next generation in connectivity: Wi-Fi 6E, perfect for high-speed file sharing and smooth 4K streaming, and Bluetooth 5.2. And with a Thunderbolt 4 port, connect two 4K displays for multitasking. Featuring three USB Type-A ports and one HDMI 2.0.",
+        "Internal Specifications : 16 GB of DDR4 system memory upgradable up to 32 GB using two soDIMM modules and 512GB PCIe NVMe Gen 4 SSD"
+      ]
+    },
+    {
+      "id": "item-2",
+      "name": "Safari",
+      "description": "Safari Thorium Sharp Antiscratch Trolley Bag Medium Size, 66 cms Black Printed Hard Side Travel Bag for Men and Women, 4 Wheel Luggage Suitcase for Travelling",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/2.png",
+      "price": "2999",
+      "company": "Safari",
+      "discount": "70",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "EMI on debit cards is currently available for select customers of following banks:HDFC, ICICI, Axis, Kotak Mahindra and Federal Bank on products above Rs.5,000."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "10% Instant Discount up to INR 750 on ICICI Bank Credit Card Non EMI Trxns. Min purchase value INR 3000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "3188",
+        "overall": "4.1"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Safari"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Safari Thorium"
+        },
+        {
+          "spec": " Size",
+          "value": "66 cms"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Wheels",
+          "value": "4"
+        },
+        {
+          "spec": "Department",
+          "value": "Unisex-adult"
+        },
+        {
+          "spec": "Weight",
+          "value": "4kg"
+        },
+        {
+          "spec": "Materials ",
+          "value": "Polycarbonate"
+        },
+        {
+          "spec": "Capacity",
+          "value": "81.9 liters"
+        },
+        {
+          "spec": "Lock Type",
+          "value": "Number Lock"
+        }
+      ],
+      "about": [
+        "Manufacturer by Safari Industries (India) Ltd",
+        "Date First Available - 12 July 2018",
+        "Item model number - THORSHARPANTI654WBLK",
+        "Components included : Safari Thorium Sharp Antiscratch 66 Cms Polycarbonate Black Check-In 4 wheels Hard Suitcase",
+        "Manufacturer - Safari Industries (India) Ltd, Safari Industries Ltd 301/302, A-Wing, The Qube, M.V.Road, Marol, Andheri(East), Near international Airport Mumbai- 400059 +91-22-40381851/838",
+        "Packer - Safari Industries Ltd 301/302, A-Wing, The Qube, M.V.Road, Marol, Andheri(East), Near international Airport Mumbai- 400059 +91-22-40381851/838",
+        "Importer -  Safari Industries Ltd 301/302, A-Wing, The Qube, M.V.Road, Marol, Andheri(East), Near international Airport Mumbai- 400059 +91-22-40381851/838"
+      ]
+    },
+    {
+      "id": "item-3",
+      "name": "Nokia C12",
+      "description": "Nokia C12 Android 12 (Go Edition) Smartphone, All-Day Battery, 4GB RAM (2GB RAM + 2GB Virtual RAM) + 64GB Capacity | Light Mint",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/3.png",
+      "price": "5699",
+      "company": "Nokia",
+      "discount": "24",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "EMI on debit cards is currently available for select customers of following banks:HDFC, ICICI, Axis, Kotak Mahindra and Federal Bank on products above Rs.5,000."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "7.5% Instant Discount up to INR 1500 on Yes Bank Credit Card EMI Trxn. Minimum purchase value INR 12000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases"
+        }
+      ],
+      "rating": {
+        "ratings": "405",
+        "overall": "3.1"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Nokia"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Nokia C12"
+        },
+        {
+          "spec": "Screen Size",
+          "value": "6.3 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "Grey"
+        },
+        {
+          "spec": "Network Service Provider",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "spec": "OS",
+          "value": "Android 12.0"
+        },
+        {
+          "spec": "Cellular Technology",
+          "value": "2G, 3G, 4G"
+        },
+        {
+          "spec": "Weight",
+          "value": "179 grams"
+        },
+        {
+          "spec": "RAM",
+          "value": "4GB"
+        },
+        {
+          "spec": "Guarantee",
+          "value": "1 year"
+        }
+      ],
+      "about": [
+        "4GB RAM with Memory Extension | 2GB RAM + 2GB Virtual RAM.",
+        "Fast performing octa-core processor.",
+        "1 year replacement guarantee.",
+        "Powerful Night and Portrait modes on the rear and front cameras.",
+        "Breathtaking 6.3\" HD+ display on a phone that's easy to hold.",
+        "Android 12 Go Edition with 2 years of quarterly security updates.",
+        "1 year replacement guarantee for device and 6 months manufacturer warranty for in-box accessories including battery from the date of purchase"
+      ]
+    },
+    {
+      "id": "item-4",
+      "name": "Mivi DuoPods A650",
+      "description": "Mivi DuoPods A650 New Launch True Wireless in Ear Earbuds with Quad Mic ENC, 13mm Rich Bass Drivers, 55Hrs Playtime, Low Latency, Fast Charging, Clear Audio Quality, Made in India (Zed Black)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/4.jpg",
+      "price": "1299",
+      "company": "Mivi",
+      "discount": "63",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Amazon Pay Later is currently available for selected customers on products above Rs.3,000."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Get up to 6 Months of Free Spotify Premium Subscription with Mobile Accessories"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "5% Instant Discount up to INR 250 on HSBC Cashback Card Credit Card Transactions. Minimum purchase value INR 1000"
+        }
+      ],
+      "rating": {
+        "ratings": "49",
+        "overall": "3.6"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Mivi"
+        },
+        {
+          "spec": "Model Name",
+          "value": "A650"
+        },
+        {
+          "spec": "Connectivity ",
+          "value": "Wireless"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Playtime",
+          "value": "55 Hours"
+        },
+        {
+          "spec": "Full charge",
+          "value": "10 minutes"
+        },
+        {
+          "spec": "Driver Size",
+          "value": "13 mm"
+        },
+        {
+          "spec": "Materials",
+          "value": "Metal"
+        },
+        {
+          "spec": "Made In",
+          "value": "India"
+        },
+        {
+          "spec": "Warenty",
+          "value": "2 years"
+        }
+      ],
+      "about": [
+        "Environmental Noise Cancellation: True Wireless Earbuds Mivi Duopods A650 Reduces 90% environmental noise rather than escaping from the world for clear calls.",
+        "Powerful Bass & Authentic Sound: The Mivi DuoPods A650 earbuds have custom-tuned EQ which provides you with a rich, deep, and powerful bass that won't miss a beat. It comes with 13mm electro-dynamic bass drivers provide studio-quality audio performance for the pure authentic sound you want.",
+        "55 Hours Playtime:These TWS earbuds comes with a 500mAh battery so that on the go, you can listen to your favourite tracks for more than two days with 55 hours of combined playback time.",
+        "Low Latency: Mivi DuoPods A650 True wireless earbuds feature low latency of 55ms and they sync very well with the visuals, enabling boosted gaming experience.",
+        "Made in India: From design to manufacturing, wireless Bluetooth earphones Mivi DuoPods A650 are proudly made in India. These earbuds are built locally to compete globally."
+      ]
+    },
+    {
+      "id": "item-5",
+      "name": "Fastrack New Limitless FS1",
+      "description": "Fastrack New Limitless FS1 Smart Watch|Biggest 1.95\" Horizon Curve Display|SingleSync BT Calling v5.3|Built-in Alexa|Upto 5 Day Battery|ATS Chipset with Zero Lag|100+ Sports Modes|150+ Watchfaces",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/5.jpg",
+      "price": "1995",
+      "company": "Fastrack",
+      "discount": "56",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "10% Instant Discount up to INR 750 on ICICI Bank Credit Card Non EMI Trxns. Min purchase value INR 3000"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "7.5% Instant Discount up to INR 2000 on HSBC Credit Card EMI Trxn. Minimum purchase value INR 3000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases"
+        }
+      ],
+      "rating": {
+        "ratings": "900",
+        "overall": "3.9"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Fastrack "
+        },
+        {
+          "spec": "Model Name",
+          "value": "FS1 "
+        },
+        {
+          "spec": "Screen Size",
+          "value": "1.95 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "black"
+        },
+        {
+          "spec": "Battey",
+          "value": "Upto 5 Day"
+        },
+        {
+          "spec": "BT version",
+          "value": "5.3"
+        },
+        {
+          "spec": "Display",
+          "value": "Curved"
+        },
+        {
+          "spec": "Chipser",
+          "value": "ATS"
+        },
+        {
+          "spec": "Watchfaces",
+          "value": "150"
+        },
+        {
+          "spec": "Personal assistant ",
+          "value": "yes"
+        }
+      ],
+      "about": [
+        "Music Control on your smartwatch: Have your music vibe while your workout by having full control over your phone music from your watch itself. In-app Camera Control: Click those perfect selfies and shots by controlling the in-app camera from your Limitless FS1 smartwatch.",
+        "Biggest 1.95” Horizon Curve Display: Fastrack Limitless FS1 comes with India's first largest 1.95” Horizon Curve Display and is ready to style your wrist with bright pixel resolution and brand new amazing colours.",
+        "Built-In Alexa: Your personal assistant to make your life quick and smart like setting up alarms, reminders or adding grocery to your cart.",
+        "Next Gen ATS Chipset: Revolutionize your experience with faster processing, zero lags and high accuracy on your smartwatch.",
+        "Modify your style everyday with 150+ trendy watchfaces."
+      ]
+    },
+    {
+      "id": "item-6",
+      "name": "ZEBRONICS Zeb-JUKEBAR 3900",
+      "description": "ZEBRONICS Zeb-JUKEBAR 3900, 80W Multimedia soundbar with subwoofer Supporting Bluetooth, HDMI(ARC), Coaxial Input, AUX, USB & Remote Control (Black)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/6.jpg",
+      "price": "4699",
+      "company": "ZEBRONICS",
+      "discount": "62",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹3,811.33 EMI interest savings on select Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "7.5% Instant Discount up to INR 1000 on HSBC Credit Card EMI Trxn. Minimum purchase value INR 4000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Buy this speaker and get 5% off on top selling headphones. Offered by Balakrishna Retail Private Ltd"
+        }
+      ],
+      "rating": {
+        "ratings": "5188",
+        "overall": "4.2"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "ZEBRONICS"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Zeb-JUKEBAR 3900,"
+        },
+        {
+          "spec": "Wattage",
+          "value": "80 watts"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "BlueTooth Support",
+          "value": "Yes"
+        },
+        {
+          "spec": "Remote",
+          "value": "Yes"
+        },
+        {
+          "spec": "USB Support",
+          "value": "Yes"
+        },
+        {
+          "spec": "HDMI Support",
+          "value": "Yes"
+        },
+        {
+          "spec": "Guarantee",
+          "value": "1 Year"
+        },
+        {
+          "spec": "Driver sizeSubwoofer",
+          "value": "13.3cm x 1Sound bar 5.7cm x 2"
+        }
+      ],
+      "about": [
+        "Zeb-Juke Bar 3900 is a soundbar that has powerful dual 5.7cm drivers and 13.3cm subwoofer to deliver a hi-fidelity cinematic experience right at your home.",
+        "The soundbar comes with multi-connectivity options like you can enjoy wireless streaming via the BT mode or choose others like USB, AUX, HDMI or coaxial input.",
+        "The soundbar comes with an LED display with volume/media controls and a fully functional remote control.",
+        "Output power (RMS)Subwoofer 40 wattsSoundbar 40 watts Total 80 watts.",
+        "ImpedanceSubwoofer 6ΩSoundbar 4ΩFrequency response 55Hz-20kHz.",
+        "Line input 3.5mm, Coaxial IN, HDMI (ARC)Max. supported memory size (USB) 32GBBT name ZEB-JUKE BAR 3900BT version 5.0.",
+        "Wireless BT/USB/AUX/Coaxial IN/HDMI(ARC)13.3cm SubwooferRemote controlLED Display"
+      ]
+    },
+    {
+      "id": "item-7",
+      "name": "truke",
+      "description": "truke Newly Launched Buds Vibe True Wireless in Ear Earbuds with 35dB Real ANC + Quad Mic ENC, 13mm Big Speaker, 4 EQ Modes, 48H Playtime, Fast Charge, 40ms Low Latency, AAC Codec, BT 5.3, IPX5(Black)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/7.jpg",
+      "price": "1499",
+      "company": "truke",
+      "discount": "57",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto 510.10 EMI interest savings on select Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "7.5% Instant Discount up to INR 150 on HSBC Credit Card EMI Trxn. Minimum purchase value INR 4000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "5% Instant Discount up to INR 250 on HSBC Cashback Card Credit Card Transactions. Minimum purchase value INR 1000"
+        }
+      ],
+      "rating": {
+        "ratings": "256",
+        "overall": "3.8"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Truke"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Buds Vibe ANC"
+        },
+        {
+          "spec": "Noise Cancellation",
+          "value": "Yes"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Noise Upto",
+          "value": "32 dB"
+        },
+        {
+          "spec": "Speaker",
+          "value": "13mm"
+        },
+        {
+          "spec": "Warenty",
+          "value": "1 year"
+        },
+        {
+          "spec": "BlueTooth Support",
+          "value": "Yes"
+        },
+        {
+          "spec": "BlueTooth Version",
+          "value": "5.3"
+        },
+        {
+          "spec": "Playtime",
+          "value": "48 hour"
+        }
+      ],
+      "about": [
+        "[Dual Noise Cancellation (ANC + ENC)] - The truke Buds Vibe ANC offers Dual Noise Cancellation with up to 35dB Active Noise Cancellation (ANC) and Quad Mic Environmental Noise Cancellation. With the ability to cancel up to 90% of ambient noises, these ear buds deliver a premium audio experience, no matter where you are. Enjoy your music or calls without any distractions, whether you're on a train, flight, in the office, or outdoors. The earbuds also come with a transparency mode to hear your surroundings clearly without taking off your earbuds or pausing the music. Simply tap and hold the right earbud for 2 seconds to switch between ANC On and Transparency Mode.",
+        "[Crystal-Clear Voice Calls] - With Quad MEMS mic technology, Truke Buds Vibe ANC ensures crystal-clear calls even in noisy environments. The four built-in microphones enhance voice pickup and suppress ambient noise during calls, ensuring superior call quality every time. Whether you're in a busy office, commuting, or just out and about, you can count on Truke Buds Vibe ANC to deliver superior call quality every time.",
+        "[13mm Big Speaker with 4 EQ Modes] - Truke buds vibe ANC feature 13mm titanium drivers for rich bass and immersive sound. With four preset EQ modes including balanced, dynamic, bass boost, and movie modes, you can personalize your listening experience, from balanced sound to powerful bass, to optimized audio for movies.",
+        "[48H Long Playtime with Fast Charging] : Get up to 48 hours of playtime with the 300mAh charging case, allowing you to explore your favorite playlist for days without worrying about constant charging. The lightning-fast charging technology lets you charge the case for just 10 minutes and enjoy music for up to 10 hours*.",
+        "[Ultimate Gaming Earbuds] : Truke Buds Vibe ANC offers a True Gaming Mode with ultra-low latency of up to 40ms, providing a near-perfect gaming experience. Tap the right earbud 3 times to enter Gaming Mode and enjoy uninterrupted gaming sessions. The fast and stable Bluetooth 5.3 connection ensures uninterrupted audio transmission during gameplay, while the secure and comfortable fit of the earbuds allows for extended gaming sessions without discomfort. The quad MEMS microphone setup provides clear and accurate voice pickup for in-game communication with teammates, and the low latency mode reduces lag and ensures smooth gameplay. All of these features make Truke Buds Vibe ideal for gaming.",
+        "[Instant Connectivity and Intuitive Controls] Truke Buds Vibe ANC earbuds feature Bluetooth 5.3 for secure, seamless, and energy-efficient connectivity with 2X faster and reliable connection. The advanced instant pairing technology ensures instant connection with the last paired device as soon as you open the case. Additionally, with high-quality touch panels, the earbuds offer intuitive control for answering calls, changing tracks, and accessing your preferred voice assistant with just a few taps.",
+        "[12-Month Warranty] : Truke Buds Vibe is backed by a 12-month warranty from the date of purchase, with coverage available at over 250 active service centers."
+      ]
+    },
+    {
+      "id": "item-8",
+      "name": "Boult Audio Z40",
+      "description": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C Fast Charging, Made in India, 10mm Rich Bass Drivers, IPX5, Bluetooth 5.1 Ear Buds TWS (Blue)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/8.jpg",
+      "price": "1499",
+      "company": "Boult",
+      "discount": "70",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Amazon Pay Later is currently available for selected customers on products above Rs.3,000."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹112.58 on Select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Buy this Mobile and get 5% off on top selling headphones https://www.amazon.in/promotion/psp/A2PSNZB32741JQ. Offered by Appario Retail Private Ltd"
+        }
+      ],
+      "rating": {
+        "ratings": "3383",
+        "overall": "3.9"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Boult "
+        },
+        {
+          "spec": "Model Name",
+          "value": "AirBass"
+        },
+        {
+          "spec": "Connector Type",
+          "value": "Wireless"
+        },
+        {
+          "spec": "Colour",
+          "value": "Blue"
+        },
+        {
+          "spec": "Full charge",
+          "value": "10 minutes"
+        },
+        {
+          "spec": "BlueTooth Version",
+          "value": "5.1"
+        },
+        {
+          "spec": "Noise Cancellation",
+          "value": "yes"
+        },
+        {
+          "spec": "Dynamic Bass",
+          "value": "yes"
+        },
+        {
+          "spec": "Making calls",
+          "value": "yes"
+        },
+        {
+          "spec": "Made In",
+          "value": "India"
+        }
+      ],
+      "about": [
+        "60 hours of total playtime - Mammoth battery power makes the Z40 earbuds stop at nothing.",
+        "10 mins charge = 150 mins playtime. Lightning Boult Type-C fast charging makes this possible, getting your buds ready in no time.",
+        "Zen Mode - The Environmental Noise Cancellation mode wards off unwanted noise, making your calls crystal clear.",
+        "Low latency gaming - Have an uninterrupted gaming experience with no lags.",
+        "10mm BoomX tech drivers deliver deep, dynamic bass that adds the much-needed thrill to your entertainment."
+      ]
+    },
+    {
+      "id": "item-9",
+      "name": "Pampers",
+      "description": "Pampers All round Protection Pants, Medium size baby diapers (7-12kg) 76 Count, Anti Rash diapers, Lotion with Aloe Vera",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/9.jpg",
+      "price": "895",
+      "company": "Pampers",
+      "discount": "25",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "5% Instant Discount up to INR 250 on HSBC Cashback Card Credit Card Transactions. Minimum purchase value INR 1000"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "260848",
+        "overall": "4.3"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Pampers "
+        },
+        {
+          "spec": "Model Name",
+          "value": "md-20"
+        },
+        {
+          "spec": "Incontinence ",
+          "value": "Infant Diaper"
+        },
+        {
+          "spec": "Colour",
+          "value": "White"
+        },
+        {
+          "spec": "Material",
+          "value": "Cotton"
+        },
+        {
+          "spec": "Reusability",
+          "value": "Disposable"
+        },
+        {
+          "spec": "Size",
+          "value": "Medium"
+        },
+        {
+          "spec": "Net Quantity",
+          "value": "76 count"
+        },
+        {
+          "spec": "Age",
+          "value": "Infant"
+        },
+        {
+          "spec": "Absorption",
+          "value": "12 hrs"
+        }
+      ],
+      "about": [
+        "New & Improved Pampers All-round Protection Pants â€“ Nice Quality diaper pants for complete protection of your baby from World's #1 diaper brand (Based on Euromonitor International, Tissue and Hygiene, 2021ed, Pampers in #1 Nappy/Diapers/Pants sales brand globally in terms of both retail value sales (RSP) and volume, all retail channels, 2020 data or Source: Euromonitor International, global diaper sales, 2020 data).;Anti-Rash Blanketâ€“Indiaâ€s first diapers containing Lotion with Aloe Vera that prevents rashes. (Blanket refers to soft topsheet with lotion. Helps prevent rash due to wetness after 1 day of usage, based on clinical studies in USA 2000-2019).",
+        "Up to 100% Wetness Lock-Unique Magic Gel technology that locks all pee & poo inside ensuring quality sleep for your baby ALL NIGHT;Extra Soft- New Pampers has an extraaaa soft material to keep your baby comfortably sleeping ALL NIGHT.",
+        "Up to 12 hrs Absorption-Designed for soaking all-night urine with upto 2X Faster absorption speed keeping baby's bum dry;Double Leak Cuff Guardsâ€“Specially designed inner & outer barriers near thighs to prevent any leakage.",
+        "No. 1 Choice of Doctors â€“Pampers knows its science, and is hence #1 Chosen brand by Doctors;Pampers Safety Promiseâ€“Nice Quality diapers designed for every newborn's skin with pH sensitive material, latex-free soft elastics, and zero parabens; Dermatologically Tested & Approved by Skin Health Alliance;Available in sizes Newborn, Small, Medium, Large, XL, XXL, XXXL diapers.",
+        "Color Name: White; Material Type Free: Latex Free; Lining Description: Cotton."
+      ]
+    },
+    {
+      "id": "item-10",
+      "name": "BATA",
+      "description": "BATA Mens Boss-Grip Uniform Dress Shoe",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/10.jpg",
+      "price": "769",
+      "company": "BATA ",
+      "discount": "23",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Avail No Cost EMI on select cards for orders above ₹3000."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Discount on select Credit CardsUpto ₹76.90 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "3354",
+        "overall": "3.7"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "BATA"
+        },
+        {
+          "spec": "Model Name",
+          "value": "X-101"
+        },
+        {
+          "spec": "Sole",
+          "value": "Rubber"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Closure",
+          "value": "Pull On"
+        },
+        {
+          "spec": "Shoe Width",
+          "value": "Medium"
+        },
+        {
+          "spec": "Material",
+          "value": "Synthetic"
+        },
+        {
+          "spec": "Water Resistant Level",
+          "value": "Not Water Resistant"
+        },
+        {
+          "spec": "Care Instructions",
+          "value": "Wipe with clean and dry cloth to remove dust"
+        },
+        {
+          "spec": "Fit Type",
+          "value": "Regular"
+        }
+      ],
+      "about": [
+        "Product Dimensions - 33 x 15 x 12 cm; 750 Grams.",
+        "Manufacturer - Guide Footwear Co.",
+        "Manufacturer - Guide Footwear Co., Guide Footwear Co., 6a/3/27/28/29, Sector-3 Transport Nagar Agra, Uttar Pradesh Agra-282007 INDIA.",
+        "Packer - BATA INDIA LIMITED , Village Jauri,main Pataudi Road, State Highway - 15A, Gurgaon-122503 (Haryana).",
+        "Country of Origin - India"
+      ]
+    },
+    {
+      "id": "item-11",
+      "name": "Samsung",
+      "description": "Samsung Galaxy S20 FE 5G (Cloud Lavender, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/11.jpg",
+      "price": "34999",
+      "company": "Samsung",
+      "discount": "53",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹1,575.94 EMI interest savings on Amazon Pay ICICI Bank Credit Cards."
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹2,000.00 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Buy this Mobile and get 5% off on top selling headphones https://www.amazon.in/promotion/psp/A2PSNZB32741JQ. Offered by Appario Retail Private Ltd"
+        }
+      ],
+      "rating": {
+        "ratings": "30736",
+        "overall": "4.2"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Samsung"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Samsung Galaxy S20 FE 5G"
+        },
+        {
+          "spec": "Screen Size",
+          "value": "6.5 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "Pink"
+        },
+        {
+          "spec": "Internal memory",
+          "value": "128 GB"
+        },
+        {
+          "spec": "CPU model",
+          "value": "Snapdragon 865"
+        },
+        {
+          "spec": "RAM memmory",
+          "value": "8 GB"
+        },
+        {
+          "spec": "Operating System",
+          "value": " Android 11.0 "
+        },
+        {
+          "spec": "Battery",
+          "value": "4500 mAh"
+        },
+        {
+          "spec": "Resolution",
+          "value": "1080 x 2400"
+        }
+      ],
+      "about": [
+        "5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0 operating system and dual SIM.",
+        "Triple Rear Camera Setup - 12MP (Dual Pixel) OIS F1.8 Wide Rear Camera + 8MP OIS Tele Camera + 12MP Ultra Wide | 30X Space Zoom, Single Take & Night Mode | 32MP F2.2 Front Punch Hole Camera.",
+        "6.5-inch(16.40 centimeters) Infinity-O Super AMOLED Display with 120Hz Refresh rate, 1080 x 2400 (FHD+) Resolution.",
+        "4500 mAh battery (Non -removable) with Super Fast Charging, FAst Wireless Charging & Finger Print sensor.",
+        "IP68 Rated, MicroSD Card Slot (Expandable upto 1 TB), Dual Nano Sim, Hybrid Sim Slot, 5G+5G Dual stand by.",
+        "Disclaimer: N28 band for Stand alone 5G network is not compatible."
+      ]
+    },
+    {
+      "id": "item-12",
+      "name": "HP 24-cb0789in",
+      "description": "HP AMD Windows 10 All-in-One PC 23.8-inches 60.5 cm FHD Desktop PC Ryzen 3-3250U -8GB/256GB SSD + 1TB HDD/IR Camera/Win 11/MS Office/Snow White, 24-cb0789in",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/12.jpg",
+      "price": "46990",
+      "company": "HP",
+      "discount": "15",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹2,155.33 EMI interest savings on select Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹2,000.00 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get Free One Week BYJU’s Concept Pack worth Rs999 on purchase of PC products."
+        }
+      ],
+      "rating": {
+        "ratings": "15",
+        "overall": "4.7"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "HP "
+        },
+        {
+          "spec": "Model Name",
+          "value": "24-cb0789in"
+        },
+        {
+          "spec": "Screen Size",
+          "value": "23.8 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "White"
+        },
+        {
+          "spec": "Hard Disk size",
+          "value": "256 GB"
+        },
+        {
+          "spec": "CPU model",
+          "value": "Ryzen 3-3250U"
+        },
+        {
+          "spec": "RAM memmory",
+          "value": "8 GB"
+        },
+        {
+          "spec": "Operating System",
+          "value": "Windows 10 Home"
+        },
+        {
+          "spec": "Uses",
+          "value": "Everyday Use, business"
+        },
+        {
+          "spec": "Graphics Card",
+          "value": "AMD Radeon Graphics"
+        }
+      ],
+      "about": [
+        "Processor :- AMD Ryzen 3 3250U (2.6 GHz base clock, up to 3.5 GHz max boost clock, 4 MB L3 cache, 2 cores, 4 threads)Memory & Storage :- 8 GB DDR4-2400 MHz RAM (1 x 8 GB)| Storage :- 256 GB PCIe NVMe M.2 SSD + 1 TB 5400 rpm SATA HDD",
+        "Display & Graphics : 60.5 cm (23.8\") diagonal, FHD (1920 x 1080), VA, three-sided micro-edge, anti-glare, 250 nits, 72% NTSC |Graphics:AMD Radeon Graphics.",
+        "Operating System :- Windows 11 Home| Microsoft Office Home and Student Edition 2019.",
+        "Ports: 1 SuperSpeed USB Type-A 5Gbps signaling rate (Battery Charging 1.2); 2 USB 2.0 Type-A; 1 HDMI-out 1.4; 1 RJ-45| Expansion slots: 2 M.2 (1 for SSD, 1 for WLAN).",
+        "Other Features: Keyboard: HP 710 White Wireless Keyboard and mouse combo| Camera : HP Wide Vision 1080p FHD IR privacy camera with integrated dual array digital microphones| Networking: Integrated 10/100/1000 GbE LAN|Realtek RTL8821CE-M 802.11a/b/g/n/ac (1x1) Wi-Fi and Bluetooth 4.2 combo."
+      ]
+    },
+    {
+      "id": "item-13",
+      "name": "Cello",
+      "description": "Cello Finegrip Ball Pen | Blue Ball Pens | Jar of 25 Units | Best Ball Pens for Smooth Writing | Ball Point Pen Set  | Pens for Students and Professionals Stationery",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/13.png",
+      "price": "135",
+      "company": "Cello",
+      "discount": "23",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Not available for this product"
+        }
+      ],
+      "rating": {
+        "ratings": "20351",
+        "overall": "4.2"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Cello"
+        },
+        {
+          "spec": "Model Name",
+          "value": "Finegrip "
+        },
+        {
+          "spec": "Units ",
+          "value": "25"
+        },
+        {
+          "spec": "Colour",
+          "value": "Blue"
+        },
+        {
+          "spec": "Type",
+          "value": "Ball Pen"
+        },
+        {
+          "spec": "Tip size",
+          "value": "0.7mm"
+        },
+        {
+          "spec": "Suitable for",
+          "value": "All ages"
+        },
+        {
+          "spec": "Closure",
+          "value": "Elasto"
+        },
+        {
+          "spec": "Point Type",
+          "value": "Fine"
+        },
+        {
+          "spec": "Material",
+          "value": "Plastic"
+        }
+      ],
+      "about": [
+        "The Cello Finegrip Ball Pen has a soft tip that enables sleek and smooth writing.",
+        "This ball pen has a strong and durable body that makes it ideal for everyday use.",
+        "These ball point pens have a 0.7mm tip size for fine writing and equipped with a unique Elasto grip for comfortable writing.",
+        "These ball pens are suitable for all ages.",
+        "The pen jar contains 25 blue ball pens."
+      ]
+    },
+    {
+      "id": "item-14",
+      "name": "NutriPro",
+      "description": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jar, Gold)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/14.jpg",
+      "price": "1978",
+      "company": "NutriPro ",
+      "discount": "67",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹89.05 EMI interest savings on Amazon Pay ICIC Credit card"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹148.35 discount on select Credit Cards."
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "7698",
+        "overall": "4.1"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Nutripro"
+        },
+        {
+          "spec": "Model Name",
+          "value": "B0BM4GR6TN"
+        },
+        {
+          "spec": "Wattage",
+          "value": "500 Watts"
+        },
+        {
+          "spec": "Colour",
+          "value": "Gold"
+        },
+        {
+          "spec": "Product Dimensions",
+          "value": "30.3D x 13.3W x 22.4H Centimeters"
+        },
+        {
+          "spec": "Material",
+          "value": "Acrylonitrile Butadiene Styrene"
+        },
+        {
+          "spec": "Blade Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "spec": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "spec": "Weight",
+          "value": "1.8 Kg"
+        },
+        {
+          "spec": "Power Source",
+          "value": "Corded Electric"
+        }
+      ],
+      "about": [
+        "Make Smoothies and Juices within seconds.",
+        "Also suitable for dry grinding, chutneys and dips.",
+        "Powerful 500 W copper motor can grind almost any food.",
+        "Best in the segment customer support and quality.",
+        "Includes easy to make and carry sipper jar."
+      ]
+    },
+    {
+      "id": "item-15",
+      "name": "Baybee",
+      "description": "Baybee R7 Battery Operated Bike for Kids, Ride on Toy Baby Bike with Light & Music Ride on Toy Kids Bike Rechargeable Battery Bike Electric Bike for Kids to Drive 1 to 3 Years Boy Girl (R7 Red)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/15.jpg",
+      "price": "6919",
+      "company": "Baybee ",
+      "discount": "47",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹311.53 EMI interest savings on Amazon Pay ICICI Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹518.92 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "43",
+        "overall": "3.6"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Baybee"
+        },
+        {
+          "spec": "Model Name",
+          "value": "BEMB121"
+        },
+        {
+          "spec": "Assembly Required",
+          "value": "Yes"
+        },
+        {
+          "spec": "Colour",
+          "value": "R7 Red"
+        },
+        {
+          "spec": "Batteries Required",
+          "value": "Yes"
+        },
+        {
+          "spec": "Material",
+          "value": "Plastic"
+        },
+        {
+          "spec": "RAM memmory",
+          "value": "16 GB"
+        },
+        {
+          "spec": "Product Dimensions",
+          "value": "90 x 44 x 55 cm; 6 Kilograms"
+        },
+        {
+          "spec": "Weight",
+          "value": "6 kg"
+        },
+        {
+          "spec": "Included Components",
+          "value": "Battery charger, Assembly manual"
+        }
+      ],
+      "about": [
+        "Simple & Comfortable Driving Experience★: The forward/backward/Stop switch makes it easy enough for kids to either power or stop the electric bike. Forward and backward functions can be operated by means of the hand accelerator and It comes with a foot brake. And curved seat fitting well with kids’ body curves is capable of improving the level of driving comfortableness.",
+        "Rechargeable Battery★: It comes with a charger, your baby can consistently ride on it for many times with its rechargeable battery. Full enjoyment when this motorcycle is fully charged, your baby can continuously play it for 40 minutes which makes sure that your baby can abundantly enjoy it.",
+        "Music & Stories Cheer up Kids:★ The battery operated bikes for kids adopts various interesting music and stories to extremely entertaining your kids. Or your kids can listen to their preferred music as long as you connect a music device with a USB and MP3 ports equipped there. Adjustable volume adds more convenience. In addition, headlights and taillights are capable of bringing brightness in the darkness.",
+        "Dual Led Lights ★ Two Bright LED lights on the Front to brighten up the dark surroundings for safe driving. It’s cool and realistic looks like a real bike can stimulate the interest of children, and the product requires easy self-assembly. The instruction manual is provided with the package and comes with a charger It is a perfect gift for kids 1 to 3 years.",
+        "Training Wheels for Higher Safety★: There are 2 training wheels that keep the motorcycle as steady as possible while preventing it from falling over to enable higher safety. Furthermore, the motorcycle is designed with a rubber grip and wear-resistant wheels that move smoothly. In this way, you are supposed to trust your kids driving it.",
+        "Assembly Instruction★: The product requires easy self-assembling. The instruction manual is provided with the package and comes with a charger, NOTE: THE BATTERY POSITIVE TERMINAL (RED WIRE) IS DISCONNECTED SO WHILE ASSEMBLING THE BIKE CONNECT THE RED WIRE TO BATTERY BEFORE CHARGING."
+      ]
+    },
+    {
+      "id": "item-16",
+      "name": "Fixderma",
+      "description": "Fixderma Nigrifix cream for Acanthosis Nigricans | Exfoliant | For Dark body parts like neck, ankles, knuckles, Armpits, Thighs, Elbows 50gm",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/16.jpg",
+      "price": "352",
+      "company": "Fixderma",
+      "discount": "22",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Not available for this product"
+        }
+      ],
+      "rating": {
+        "ratings": "2744",
+        "overall": "3.7"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Fixderma"
+        },
+        {
+          "spec": "Model Name",
+          "value": "B0B18SZNDQ"
+        },
+        {
+          "spec": "Weight",
+          "value": "50 g"
+        },
+        {
+          "spec": "Item Form",
+          "value": "Cream"
+        },
+        {
+          "spec": "Skin Type",
+          "value": "All"
+        },
+        {
+          "spec": "Scent",
+          "value": "Almond, Tea Tree"
+        },
+        {
+          "spec": "Skin Tone",
+          "value": "All, Deep"
+        },
+        {
+          "spec": "Age",
+          "value": "Above 10 years old"
+        },
+        {
+          "spec": "Made In",
+          "value": "India"
+        },
+        {
+          "spec": "Expiry",
+          "value": "3 Months from opening the packet"
+        }
+      ],
+      "about": [
+        "CUSTOMIZED FORMULATION: It treats Acanthosis Nigricans, a skin condition characterized by areas of dark, velvety discoloration in body folds and creases. It affects the body parts like back of neck, ankles, knuckles, armpits, thighs, elbows.",
+        "NON-GREASY FORMULATION: Helps to give a non-tacky feel and exfoliates the dark skin.",
+        "EVEN SKIN TONE & HYDRATION: It promotes even skin tone, softens the harder skin areas and keeps the skin hydrated for long duration.",
+        "KEY INGREDIENTS: Retinol, Lactic acid, Tea tree oil, Urea, Sweet almond oil.",
+        "DIRECTIONS FOR USE: Cleanse the skin and dry. Apply sufficient amount of Nigrifix cream only on the affected skin area and massage gently till it gets absorbed. For best results apply daily.",
+        "This product is protected by Transparency, which verifies a unit’s authenticity and enables you to view rich information about the product you purchased. When you receive your product, please look for the Transparency logo and code. You can scan it to verify its authenticity with the Transparency app. To download the Transparency app, get it on the App Store or Google Play."
+      ]
+    },
+    {
+      "id": "item-17",
+      "name": "IBELL",
+      "description": "IBELL WINDP10 Pedestal Fan 5 Leaf with Remote and High Air Flow,406mm, 55W, High Speed, 100% Copper & Timer Function, Black",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/17.png",
+      "price": "2892",
+      "company": "IBELL",
+      "discount": "41",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹130.22 EMI interest savings on Amazon Pay ICICI Credit Card"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹216.90 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "2688",
+        "overall": "4.0"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "IBELL"
+        },
+        {
+          "spec": "Model Name",
+          "value": "WINDP10"
+        },
+        {
+          "spec": "Leaf",
+          "value": "5"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Wattage",
+          "value": "55W"
+        },
+        {
+          "spec": "CPU model",
+          "value": "core i5"
+        },
+        {
+          "spec": "Remote",
+          "value": "Yes"
+        },
+        {
+          "spec": "Room Type",
+          "value": "Living Room, Bedroom, Dining Room"
+        },
+        {
+          "spec": "Mounting Type",
+          "value": "Free Standing"
+        },
+        {
+          "spec": "Product Dimensions",
+          "value": "46D x 46W x 140H Centimeters"
+        }
+      ],
+      "about": [
+        "Warranty: 1 Year Standard & 1 Year Additional on FREE Registration",
+        "Pedestal fan with Remote Control. Ideal for use in home and office.Power: 55 watts; Operating Voltage : 230V /50Hz.",
+        "Wide Sweep Oscillation and 3 Speed Control, 2 Hour Timer, Whisper Quiet Operation and Self Lubricating Motor.",
+        "High Quality 5 Leaf and Silent Pedestal Fan, Standing fan with High Air Delivery.",
+        "55W Motor Power With 100% Copper Motor for Longer Life and Powerful motor designed for Indian weather conditions."
+      ]
+    },
+    {
+      "id": "item-18",
+      "name": "Red Tape ",
+      "description": "Red Tape Men's Walking Shoes",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/18.jpg",
+      "price": "1264",
+      "company": "Red Tape",
+      "discount": "77",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Avail No Cost EMI on select cards for orders above ₹3000"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Upto ₹126.40 discount on select Credit CardsUpto ₹126.40 discount on select Credit Cards"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases."
+        }
+      ],
+      "rating": {
+        "ratings": "40",
+        "overall": "4.1"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Red Tape"
+        },
+        {
+          "spec": "Model Name",
+          "value": "RSO1291A"
+        },
+        {
+          "spec": "Department ",
+          "value": "Mens"
+        },
+        {
+          "spec": "Weight ",
+          "value": "700g"
+        },
+        {
+          "spec": "Dimensions",
+          "value": "29 x 21 x 12 Centimeters"
+        },
+        {
+          "spec": "Sole",
+          "value": "Ethylene Vinyl Acetate"
+        },
+        {
+          "spec": "Closure",
+          "value": "Lace-Up"
+        },
+        {
+          "spec": "Heel Height",
+          "value": "0.5 centimeters"
+        },
+        {
+          "spec": "Fit Type",
+          "value": "Regular"
+        },
+        {
+          "spec": "Type",
+          "value": "SPORTS WALKING SHOES"
+        }
+      ],
+      "about": [
+        "Manufacturer - Red Tape, Importer:-MIRZA INTERNATIONAL LTD., 14/6, CIVIL LINES, KANPUR-208001.",
+        "Packer - Importer:-MIRZA INTERNATIONAL LTD., 14/6, CIVIL LINES, KANPUR-208001.",
+        "Importer - Importer:-MIRZA INTERNATIONAL LTD., 14/6, CIVIL LINES, KANPUR-208001.",
+        "It features a sturdy mesh upper and EVA sole which adds to the overall look and slip-resistant which provides comfort and negates the chance of accidental falls.",
+        "Go for jogs, hit the gym or even play your favourite sport wearing this pair of grey shoes from Red Tape.",
+        "Crafted with care, it will ensure that your feet stay comfortable for long hours.",
+        "The lace closure makes it easy to wear."
+      ]
+    },
+    {
+      "id": "item-19",
+      "name": "Nokia 2660",
+      "description": "Nokia 2660 Flip 4G Volte keypad Phone with Dual SIM, Dual Screen, inbuilt MP3 Player & Wireless FM Radio | Blue",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/19.jpg",
+      "price": "4499",
+      "company": "Nokia ",
+      "discount": "24",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹202.60 EMI interest savings on Amazon Pay ICICI Bank Credit Cards"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Buy this Mobile and get 5% off on top selling headphones https://www.amazon.in/promotion/psp/A2PSNZB32741JQ. Offered by Appario Retail Private Ltd"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "5% Instant Discount up to INR 250 on HSBC Cashback Card Credit Card Transactions. Minimum purchase value INR 1000"
+        }
+      ],
+      "rating": {
+        "ratings": "1410",
+        "overall": "3.7"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Nokia "
+        },
+        {
+          "spec": "Model Name",
+          "value": "2660 Flip"
+        },
+        {
+          "spec": "Screen Size",
+          "value": "2.8 Inches"
+        },
+        {
+          "spec": "Colour",
+          "value": "Black"
+        },
+        {
+          "spec": "Network",
+          "value": "4G"
+        },
+        {
+          "spec": "MP3 Player",
+          "value": "Yes"
+        },
+        {
+          "spec": "Wireless FM Radio",
+          "value": "Yes"
+        },
+        {
+          "spec": "Operating System",
+          "value": "S30+"
+        },
+        {
+          "spec": "Memory ",
+          "value": "128 MB"
+        },
+        {
+          "spec": "Battery",
+          "value": "7 days"
+        }
+      ],
+      "about": [
+        "Big buttons, big sound, and a big 2.8” primary display.",
+        "Zoom UI for easy use.",
+        "Battery-life that lasts for weeks.",
+        "Flip-functionality for answering or ending a call with a simple flip.",
+        "Emergency button for contacting up to 5 people."
+      ]
+    },
+    {
+      "id": "item-20",
+      "name": "Wolpin",
+      "description": "wolpin Kitchen Wall Stickers Wood Wallpaper DIY PVC Shelf Liner, Furniture, Almirah, Table Top, Wardrobe, Kitchen Cupboard Decal, Mahogany Brown",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/20.jpg",
+      "price": "199",
+      "company": "Wolpin",
+      "discount": "87",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Bank Offer",
+          "description": "Not available for this product"
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Not available for this product"
+        }
+      ],
+      "rating": {
+        "ratings": "31771",
+        "overall": "4.0"
+      },
+      "specs": [
+        {
+          "spec": "Brand",
+          "value": "Wolpin"
+        },
+        {
+          "spec": "Model Name",
+          "value": "B08SJBY2L2"
+        },
+        {
+          "spec": "Material",
+          "value": "Polyvinyl Chloride."
+        },
+        {
+          "spec": "Colour",
+          "value": "Mahogany Brown"
+        },
+        {
+          "spec": "Weight",
+          "value": "390 Grams"
+        },
+        {
+          "spec": "Theme",
+          "value": "Wooden"
+        },
+        {
+          "spec": "Stain Resistant",
+          "value": "NO"
+        },
+        {
+          "spec": "Product Dimensions",
+          "value": "3L x 0.45W Meters"
+        },
+        {
+          "spec": "Coverage",
+          "value": "45 x 300 cm"
+        },
+        {
+          "spec": "Pattern match",
+          "value": "Straight Match"
+        }
+      ],
+      "about": [
+        "WOOD FURNITURE SHELF LINER, MULTI-USE: This wood self-adhesive furniture wallpaper is ideal to decorate or upgrade renovate old furniture, fridge/refrigerator, kitchen cabinets, drawers, bed, office table, wardrobe, desk, door, laminate or decorate even the walls of bedroom, living room, hall, study, office, restaurants, glass etc. Can be applied on smooth putty wall and tiles as well.",
+        "MATERIAL: PVC Vinyl ROLL SIZE: Large Size in cms: 45 x 300 cm [Need 7 Rolls to cover a 10 ft by 10 ft Wall Size.",
+        "SAFE & REMOVABLE: This wood decorative stickers wall paper is Removable, Waterproof, Heat resistant, Oil-resistant, Re-positionable and Eco-friendly. Wolpin wood wall decal is made with high quality eco and durable PVC film material. Accent the furniture in your house with this natural wood sicker. Our wallpaper will last for years without fading.",
+        "JUST PEEL & STICK: Quick & easy to apply! This wall paper can be applied to any smooth, clean and dry Surface. There are gridlines on the back for easy measurement and cutting. ",
+        "CUSTOMER NOTE: If you wish to reposition the stickers after they have been applied on the walls; remove the stickers carefully to avoid any damage. The stickers can be reapplied, but its adhesive properties might be reduced. For newly painted walls, it’s suggested to wait for 4 weeks before applying the decal. DO NOT apply on wet walls.",
+        "It’s easy to remove or re-use and they don't leave sticky messes behind. Works great for crafts, bookcase, stands, nightstand, dresser drawer and other projects."
+      ]
+    },
+    {
+      "id": "item-21",
+      "name": "iPhone 14",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "photo": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+      "price": "67999",
+      "company": "Apple",
+      "discount": "15",
+      "offers": [
+        {
+          "name": "No Cost EMI",
+          "description": "Upto ₹3,061.89 EMI interest savings."
+        },
+        {
+          "name": "Partner Offers",
+          "description": "Get GST invoice and save up to 28% on business purchases"
+        },
+        {
+          "name": "Amazon Pay Later",
+          "description": "Upto ₹4,000.00 discount on your first buy."
+        }
+      ],
+      "rating": {
+        "ratings": "912",
+        "overall": "4.4"
+      },
+      "specs": [
+        {
+          "spec": " Brand",
+          "value": "Apple"
+        },
+        {
+          "spec": "Model",
+          "value": "IPhone"
+        },
+        {
+          "spec": "Network",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "spec": "Operating System",
+          "value": "IOS"
+        },
+        {
+          "spec": "Cellular Technology",
+          "value": "5G"
+        },
+        {
+          "spec": "Screen size",
+          "value": "6.1 Inches"
+        },
+        {
+          "spec": "Battery life",
+          "value": "20 Hours"
+        },
+        {
+          "spec": "Camera",
+          "value": "4K @ 30fps"
+        },
+        {
+          "spec": "Processor",
+          "value": "A15 Bionic"
+        },
+        {
+          "spec": "GPU",
+          "value": "5-core"
+        },
+        {
+          "spec": "Display",
+          "value": "Super Retina XDR "
+        }
+      ],
+      "about": [
+        "15.40 cm (6.1-inch) Super Retina XDR display",
+        "Advanced camera system for better photos in any light",
+        "Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "Action mode for smooth, steady, handheld videos",
+        "Vital safety technology — Crash Detection calls for help when you can’t",
+        "All-day battery life and up to 20 hours of video playback",
+        "Industry-leading durability features with Ceramic Shield and water resistance",
+        "A15 Bionic chip with 5-core GPU for lightning-fast performance. Superfast 5G cellular",
+        "iOS 16 offers even more ways to personalise, communicate and share"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "item-1",
+      "name": "Acer Aspire 5",
+      "description": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6\" FHD Display, 1.8 Kg)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/1.jpg",
+      "price": "59990",
+      "rating": {
+        "ratings": "444",
+        "overall": "4.0"
+      },
+      "discount": "28"
+    },
+    {
+      "id": "item-2",
+      "name": "Safari",
+      "description": "Safari Thorium Sharp Antiscratch Trolley Bag Medium Size, 66 cms Black Printed Hard Side Travel Bag for Men and Women, 4 Wheel Luggage Suitcase for Travelling",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/2.jpg?raw=true",
+      "price": "2999",
+      "rating": {
+        "ratings": "3188",
+        "overall": "4.1"
+      },
+      "discount": "70"
+    },
+    {
+      "id": "item-3",
+      "name": "Nokia C12",
+      "description": "Nokia C12 Android 12 (Go Edition) Smartphone, All-Day Battery, 4GB RAM (2GB RAM + 2GB Virtual RAM) + 64GB Capacity | Light Mint",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/3.jpg?raw=true",
+      "price": "5699",
+      "rating": {
+        "ratings": "405",
+        "overall": "3.1"
+      },
+      "discount": "24"
+    },
+    {
+      "id": "item-4",
+      "name": "Mivi DuoPods A650",
+      "description": "Mivi DuoPods A650 New Launch True Wireless in Ear Earbuds with Quad Mic ENC, 13mm Rich Bass Drivers, 55Hrs Playtime, Low Latency, Fast Charging, Clear Audio Quality, Made in India (Zed Black)",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/4.jpg?raw=true",
+      "price": "1299",
+      "rating": {
+        "ratings": "892",
+        "overall": "3.9"
+      },
+      "discount": "63"
+    },
+    {
+      "id": "item-5",
+      "name": "Fastrack New Limitless FS1",
+      "description": "Fastrack New Limitless FS1 Smart Watch|Biggest 1.95\" Horizon Curve Display|SingleSync BT Calling v5.3|Built-in Alexa|Upto 5 Day Battery|ATS Chipset with Zero Lag|100+ Sports Modes|150+ Watchfaces",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/5.jpg",
+      "price": "1995",
+      "rating": {
+        "ratings": "900",
+        "overall": "3.9"
+      },
+      "discount": "56"
+    },
+    {
+      "id": "item-6",
+      "name": "ZEBRONICS Zeb-JUKEBAR 3900",
+      "description": "ZEBRONICS Zeb-JUKEBAR 3900, 80W Multimedia soundbar with subwoofer Supporting Bluetooth, HDMI(ARC), Coaxial Input, AUX, USB & Remote Control (Black)",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/6.jpg?raw=true",
+      "price": "4699",
+      "rating": {
+        "ratings": "5188",
+        "overall": "4.2"
+      },
+      "discount": "62"
+    },
+    {
+      "id": "item-7",
+      "name": "truke",
+      "description": "truke Newly Launched Buds Vibe True Wireless in Ear Earbuds with 35dB Real ANC + Quad Mic ENC, 13mm Big Speaker, 4 EQ Modes, 48H Playtime, Fast Charge, 40ms Low Latency, AAC Codec, BT 5.3, IPX5(Black)",
+      "photo": "https://raw.githubusercontent.com/SachinKJ1/Resource_images/master/bigImages/7.jpg",
+      "price": "1499",
+      "rating": {
+        "ratings": "256",
+        "overall": "3.8"
+      },
+      "discount": "57"
+    },
+    {
+      "id": "item-8",
+      "name": "Boult Audio Z40",
+      "description": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C Fast Charging, Made in India, 10mm Rich Bass Drivers, IPX5, Bluetooth 5.1 Ear Buds TWS (Blue)",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/8.jpg?raw=true",
+      "price": "1499",
+      "rating": {
+        "ratings": "3383",
+        "overall": "3.9"
+      },
+      "discount": "70"
+    },
+    {
+      "id": "item-9",
+      "name": "Pampers",
+      "description": "Pampers All round Protection Pants, Medium size baby diapers (7-12kg) 76 Count, Anti Rash diapers, Lotion with Aloe Vera",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/9.jpg?raw=true",
+      "price": "895",
+      "rating": {
+        "ratings": "260848",
+        "overall": "4.3"
+      },
+      "discount": "25"
+    },
+    {
+      "id": "item-10",
+      "name": "BATA",
+      "description": "BATA Mens Boss-Grip Uniform Dress Shoe",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/10.jpg?raw=true",
+      "price": "769",
+      "rating": {
+        "ratings": "3354",
+        "overall": "3.7"
+      },
+      "discount": "23"
+    },
+    {
+      "id": "item-11",
+      "name": "Samsung",
+      "description": "Samsung Galaxy S20 FE 5G (Cloud Lavender, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/11.jpg?raw=true",
+      "price": "34999",
+      "rating": {
+        "ratings": "30736",
+        "overall": "4.2"
+      },
+      "discount": "53"
+    },
+    {
+      "id": "item-12",
+      "name": "HP 24-cb0789in",
+      "description": "HP AMD Windows 10 All-in-One PC 23.8-inches 60.5 cm FHD Desktop PC Ryzen 3-3250U -8GB/256GB SSD + 1TB HDD/IR Camera/Win 11/MS Office/Snow White, 24-cb0789in",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/12.jpg?raw=true",
+      "price": "46990",
+      "rating": {
+        "ratings": "15",
+        "overall": "4.7"
+      },
+      "discount": "15"
+    },
+    {
+      "id": "item-13",
+      "name": "Cello",
+      "description": "Cello Finegrip Ball Pen | Blue Ball Pens | Jar of 25 Units | Best Ball Pens for Smooth Writing | Ball Point Pen Set  | Pens for Students and Professionals Stationery",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/13.jpg?raw=true",
+      "price": "135",
+      "rating": {
+        "ratings": "20351",
+        "overall": "4.2"
+      },
+      "discount": "23"
+    },
+    {
+      "id": "item-14",
+      "name": "NutriPro",
+      "description": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jar, Gold)",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/14.jpg?raw=true",
+      "price": "1978",
+      "rating": {
+        "ratings": "7698",
+        "overall": "4.1"
+      },
+      "discount": "67"
+    },
+    {
+      "id": "item-15",
+      "name": "Baybee",
+      "description": "Baybee R7 Battery Operated Bike for Kids, Ride on Toy Baby Bike with Light & Music Ride on Toy Kids Bike Rechargeable Battery Bike Electric Bike for Kids to Drive 1 to 3 Years Boy Girl (R7 Red)",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/15.jpg?raw=true",
+      "price": "6919",
+      "rating": {
+        "ratings": "43",
+        "overall": "3.6"
+      },
+      "discount": "47"
+    },
+    {
+      "id": "item-16",
+      "name": "Fixderma",
+      "description": "Fixderma Nigrifix cream for Acanthosis Nigricans | Exfoliant | For Dark body parts like neck, ankles, knuckles, Armpits, Thighs, Elbows 50gm",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/16.jpg?raw=true",
+      "price": "352",
+      "rating": {
+        "ratings": "2744",
+        "overall": "3.7"
+      },
+      "discount": "22"
+    },
+    {
+      "id": "item-17",
+      "name": "IBELL",
+      "description": "IBELL WINDP10 Pedestal Fan 5 Leaf with Remote and High Air Flow,406mm, 55W, High Speed, 100% Copper & Timer Function, Black",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/17.jpg?raw=true",
+      "price": "2892",
+      "rating": {
+        "ratings": "2688",
+        "overall": "4.0"
+      },
+      "discount": "41"
+    },
+    {
+      "id": "item-18",
+      "name": "Red Tape ",
+      "description": "Red Tape Men's Walking Shoes",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/18.jpg?raw=true",
+      "price": "1264",
+      "rating": {
+        "ratings": "40",
+        "overall": "4.1"
+      },
+      "discount": "77"
+    },
+    {
+      "id": "item-19",
+      "name": "Nokia 2660",
+      "description": "Nokia 2660 Flip 4G Volte keypad Phone with Dual SIM, Dual Screen, inbuilt MP3 Player & Wireless FM Radio | Blue",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/19.jpg?raw=true",
+      "price": "4499",
+      "rating": {
+        "ratings": "1410",
+        "overall": "3.7"
+      },
+      "discount": "24"
+    },
+    {
+      "id": "item-20",
+      "name": "Wolpin",
+      "description": "wolpin Kitchen Wall Stickers Wood Wallpaper DIY PVC Shelf Liner, Furniture, Almirah, Table Top, Wardrobe, Kitchen Cupboard Decal, Mahogany Brown",
+      "photo": "https://github.com/SachinKJ1/Resource_images/blob/master/20.jpg?raw=true",
+      "price": "199",
+      "rating": {
+        "ratings": "31771",
+        "overall": "4.0"
+      },
+      "discount": "87"
+    },
+    {
+      "id": "item-21",
+      "name": "iPhone 14",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "photo": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+      "price": "67999",
+      "rating": {
+        "ratings": "912",
+        "overall": "4.4"
+      },
+      "discount": "15"
+    }
+  ]
+}
